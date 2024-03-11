@@ -1,1 +1,1 @@
-# sample
+Sample welcome to git
