@@ -1,1 +1,1 @@
-Sample welcome to git rep changes made
+This is an Sample Example for Github
